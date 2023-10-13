@@ -27,31 +27,31 @@
 
 .cloud:nth-child(1) {
   top: 70px;
-  animation-delay: 4s;
+  animation-delay: 3s;
 }
 
 .cloud:nth-child(2) {
   top: 190px;
   /* left: 450px; */
-  animation-delay: 8s;
+  animation-delay: 7s;
 }
 
 .cloud:nth-child(3) {
-  top: 420px;
+  top: 400px;
   /* left: 800px; */
 }
 
 .cloud:nth-child(4) {
   top: 310px;
   /* left: 650px; */
-  animation-delay: 6s;
+  animation-delay: 5s;
 
 }
 
 .cloud:nth-child(5) {
-  top: 520px;
+  top: 450px;
   /* left: 450px; */
-  animation-delay: 2.5s;
+  animation-delay: 1.5s;
 
 }
 
